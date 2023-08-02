@@ -11,11 +11,8 @@
 
 body {
     background: url(img/prime_home.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
-  
-   
+    height: 100vh;
 }
 
 header {
